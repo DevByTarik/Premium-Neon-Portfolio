@@ -4,6 +4,8 @@ This is a modern, high-end portfolio website demo, designed to showcase a visual
 
 👉 Live demo: https://premiumneonportfolio.netlify.app
 
+---
+
 ✨ About This Project
 
 The Premium Neon Portfolio is a sleek, futuristic portfolio template for creatives and professionals who want to present their work in a bold, memorable way.
@@ -20,6 +22,8 @@ Easy-to-navigate sections for projects, skills, and contact
 
 Perfect for freelancers, designers, developers, or tech startups looking to stand out online.
 
+---
+
 🔹 Features
 
 ✅ Interactive neon-themed sections
@@ -29,6 +33,8 @@ Perfect for freelancers, designers, developers, or tech startups looking to stan
 ✅ Contact form for client inquiries
 ✅ Easy customization and deployment on Netlify
 
+---
+
 🛠 Technologies Used
 Layer	Technology
 Markup	HTML5
@@ -36,12 +42,19 @@ Styling	CSS3 (Flexbox/Grid, Animations)
 Deployment	Netlify
 Optional	Vanilla JS / Scroll Animations
 
-📞 Contact / Hire Me
+---
 
-I create fast, professional websites for individuals, startups, and agencies.
+## 📬 Contact Form
+The contact form is currently a **demo** (no backend integration).  
+Can be easily connected to Netlify Forms or a custom backend if needed.
 
-If you want a sleek, high-end portfolio that stands out online, get in touch:
+---
 
-LinkedIn: https://www.linkedin.com/in/yourprofile
+## 👤 Author
+Built by **Tarik**  
+Freelance Web Developer
 
-Email: your.email@example.com
+---
+
+## 📄 License
+This project is for portfolio and demonstration purposes.
